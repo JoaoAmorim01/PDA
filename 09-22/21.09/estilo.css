@@ -1,0 +1,23 @@
+ /* .cor { 
+    color:red;
+ } */
+ .cor{
+  color: blue;
+ }
+
+ #h1-cor{
+    color: yellow;
+ }
+ #p-cor{
+    color: blueviolet;
+    /* Alteração do estilo da letra */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Peso da fonte - negrito */
+    font-weight: bold; 
+    /* tamanho da letra */
+    font-size: 50px;
+    /* Estilo da letra */
+    font-style: italic;
+    /* Alinhamento do texto */
+    text-align: center;
+}
